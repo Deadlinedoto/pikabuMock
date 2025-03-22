@@ -1,0 +1,14 @@
+.header {
+  display: grid;
+  grid-template-columns: 160px 1fr 230px;
+  grid-gap: 120px;
+  height: 64px;
+  width: 100%;
+  align-items: center;
+}
+
+.pickabu-logo {
+  width: 100px;
+  height: 100px;
+  position: relative;
+}
